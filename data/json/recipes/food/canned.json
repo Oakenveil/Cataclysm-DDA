@@ -1124,8 +1124,8 @@
     "tools": [ [ [ "surface_heat", 200, "LIST" ] ], [ [ "pot_canning", -1 ] ] ],
     "components": [
       [ [ "jar_3l_glass", 1 ] ],
-      [ [ "water", 22 ], [ "water_clean", 22 ] ],
-      [ [ "can_tomato", 24 ], [ "tomato", 24 ], [ "irradiated_tomato", 24 ] ]
+      [ [ "can_tomato", 24 ], [ "tomato", 24 ], [ "irradiated_tomato", 24 ] ],
+      [ [ "water", 12 ], [ "water_clean", 12 ] ]
     ]
   },
   {
@@ -1147,7 +1147,7 @@
     "components": [
       [ [ "jar_glass", 1 ] ],
       [ [ "can_tomato", 4 ], [ "tomato", 4 ], [ "irradiated_tomato", 4 ] ],
-      [ [ "water", 12 ], [ "water_clean", 12 ] ]
+      [ [ "water", 2 ], [ "water_clean", 2 ] ]
     ]
   },
   {
